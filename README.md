@@ -57,7 +57,7 @@ https://docs.flutter.dev/development/tools/android-studio
 
 **/utils** as the name implies. 
 
-# third-library
+# Third-library
 
 - [bloc](https://pub.dev/packages/bloc)
 
