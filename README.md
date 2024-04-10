@@ -4,9 +4,9 @@ A Grocery application
 
 # Sample
 
-!()[https://github.com/offerre/grocery_application/blob/main/screenshots/sample_1.gif]
-!()[https://github.com/offerre/grocery_application/blob/main/screenshots/sample_2.gif]
-!()[https://github.com/offerre/grocery_application/blob/main/screenshots/sample_3.gif]
+![](https://github.com/offerre/grocery_application/blob/main/screenshots/sample_1.gif)
+![](https://github.com/offerre/grocery_application/blob/main/screenshots/sample_2.gif)
+![](https://github.com/offerre/grocery_application/blob/main/screenshots/sample_3.gif)
 
 # **Project Setup**
 
